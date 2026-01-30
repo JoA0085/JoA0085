@@ -11,5 +11,5 @@ I build small web apps and AI bots while learning modern dev tools.
 - [FunnyChat Bot](https://github.com/JoA0085/FunnyChat_bot) — playful chatbot with simple commands.
 
 ## Contact
-- Email: ovictoria5555@gmail.com
+- Email: e.victoria5555@gmail.com
 - GitHub: [JoA0085](https://github.com/JoA0085)
