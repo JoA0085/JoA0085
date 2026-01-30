@@ -1,16 +1,15 @@
-## Hi there 👋
+# Victoria Effer (JoA0085)
 
-<!--
-**JoA0085/JoA0085** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build small web apps and AI bots while learning modern dev tools.
 
-Here are some ideas to get you started:
+## Skills
+- JavaScript, HTML/CSS, Python
+- Git, GitHub Pages, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- [Who Is The Real Hero](https://github.com/JoA0085/who-is-the-real-hero) — interactive project about hero attribution.
+- [FunnyChat Bot](https://github.com/JoA0085/FunnyChat_bot) — playful chatbot with simple commands.
+
+## Contact
+- Email: ovictoria5555@gmail.com
+- GitHub: [JoA0085](https://github.com/JoA0085)
